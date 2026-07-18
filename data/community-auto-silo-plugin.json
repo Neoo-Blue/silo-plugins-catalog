@@ -1,0 +1,13 @@
+{
+  "name": "Silo-plugin",
+  "repo_url": "https://github.com/BhanuRathore21/Silo-plugin",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "BhanuRathore21",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/BhanuRathore21/Silo-plugin"
+  ]
+}

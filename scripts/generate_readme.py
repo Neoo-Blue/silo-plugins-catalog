@@ -1,8 +1,9 @@
 import os
 import json
 
-data_dir = "C:/Users/aerki/.gemini/antigravity/scratch/silo-plugins-catalog/data"
-readme_path = "C:/Users/aerki/.gemini/antigravity/scratch/silo-plugins-catalog/README.md"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+data_dir = os.path.abspath(os.path.join(script_dir, "..", "data"))
+readme_path = os.path.abspath(os.path.join(script_dir, "..", "README.md"))
 
 categories_order = [
     "Metadata Providers",

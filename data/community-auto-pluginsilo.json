@@ -1,0 +1,13 @@
+{
+  "name": "PluginSilo",
+  "repo_url": "https://github.com/chinask5/PluginSilo",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "chinask5",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/chinask5/PluginSilo"
+  ]
+}

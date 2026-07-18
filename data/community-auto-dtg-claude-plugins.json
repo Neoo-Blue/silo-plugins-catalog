@@ -1,0 +1,13 @@
+{
+  "name": "dtg-claude-plugins",
+  "repo_url": "https://github.com/daikitigogo/dtg-claude-plugins",
+  "category": "Utility & UI Integrations",
+  "description": "Claude Code plugin marketplace: runnel (task orchestrator) and silo (atomic knowledge skills)",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "daikitigogo",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/daikitigogo/dtg-claude-plugins"
+  ]
+}

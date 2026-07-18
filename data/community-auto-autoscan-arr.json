@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-autoscan-arr",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-autoscan-arr",
+  "category": "Media Requests & Integrations",
+  "description": "Silo plugin for arr-autoscan",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-autoscan-arr"
+  ]
+}

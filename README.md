@@ -26,7 +26,9 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | [silo-plugin-local-metadata](https://github.com/theramindex/silo-plugin-local-metadata) | theramindex | Community local metadata parser for reading local NFO files, poster assets, and sidecar media information. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-manga-metadata](https://github.com/RXWatcher/silo-plugin-manga-metadata) | RXWatcher | Community metadata provider plugin for scraping manga titles, chapters, cover images, and descriptions. | 🟢 **Active** | `Silo SDK / Continuum` | ⚠️ Downstream |
+| [silo-plugin-metadata-audiobook](https://github.com/Silo-Server/silo-plugin-metadata-audiobook) | Silo-Server | First-party silo metadata provider for audiobook items (Audnexus / AudiMeta / iTunes / Audible / Storytel). | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-ebook](https://github.com/Silo-Server/silo-plugin-metadata-ebook) | Silo-Server | First-party plugin intended for ebook metadata scraper integration within the Silo ecosystem. | 🟡 **In Development** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-metadata-manga](https://github.com/Silo-Server/silo-plugin-metadata-manga) | Silo-Server | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-sportarr](https://github.com/Silo-Server/silo-plugin-metadata-sportarr) | Silo-Server (originally brettpetch) | Official fork of the community-developed sports metadata provider. Fetches sports league data via the Sportarr API, mapping leagues to TV series, seasons to seasons, and events to episodes. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-metadata-tmdb](https://github.com/Silo-Server/silo-plugin-metadata-tmdb) | Silo-Server | First-party Silo metadata provider plugin backed by The Movie Database (TMDB). Fetches movie and TV show titles, seasons, episodes, and poster artwork. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-metadata-tvdb](https://github.com/Silo-Server/silo-plugin-metadata-tvdb) | Silo-Server | First-party Silo metadata provider plugin backed by TheTVDB. Fetches TV series, seasons, episodes, and related artwork details. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
@@ -46,7 +48,9 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 
 | Plugin / Name | Developer | Description | Status | Compatibility | Verified |
 | :--- | :--- | :--- | :--- | :--- | :---: |
+| [silo-plugin-autoscan-arr](https://github.com/Silo-Server/silo-plugin-autoscan-arr) | Silo-Server | Silo plugin for arr-autoscan | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-dispatcharr](https://github.com/theramindex/silo-plugin-dispatcharr) | theramindex | Silo request plugin that dispatches user movie/TV requests to downstream Radarr and Sonarr media stacks. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-sportarr](https://github.com/brettpetch/silo-plugin-sportarr) | brettpetch | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins-request-riven](https://github.com/olivertgwalton/silo-plugins-request-riven) | olivertgwalton | Silo request router plugin that integrates content requests with Riven, a Debrid-based media download orchestrator. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugins-requests-arr](https://github.com/Silo-Community/silo-plugins-requests-arr) | Silo-Community | Approved Silo community request plugin that routes movie and series request calls from the Silo UI directly to Sonarr and Radarr queues. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugins-requests-seerr](https://github.com/Silo-Community/silo-plugins-requests-seerr) | Silo-Community | Approved Silo community request plugin that routes content requests through a Seerr or Jellyseerr API manager. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
@@ -93,9 +97,35 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 
 | Plugin / Name | Developer | Description | Status | Compatibility | Verified |
 | :--- | :--- | :--- | :--- | :--- | :---: |
+| [KevlarSilos](https://github.com/KevlarProps/KevlarSilos) | KevlarProps | item silos mc plugin | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [PluginSilo](https://github.com/chinask5/PluginSilo) | chinask5 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [Q-in-the-Wild](https://github.com/cloudstreet-dev/Q-in-the-Wild) | cloudstreet-dev | kdb+/q is powerful but lives in a silo. This book tears down the walls — integrating Q with Rust, Python, and R, finding the IDE plugins that actually work, and connecting kdb+/q to web frameworks and mainstream tooling. For the Q developer who refuses to be an island. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [SR_BiggerSilo](https://github.com/wledfor2/SR_BiggerSilo) | wledfor2 | Slime Rancher Mod for Unity Plugin Manager that increases silo storage size. Adjusts the maximum number of items any in game entity that uses Silo storage components. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [Semantic-Silo-Pro-Plugin-Development](https://github.com/bluesky0427/Semantic-Silo-Pro-Plugin-Development) | bluesky0427 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [Silo-plugin](https://github.com/BhanuRathore21/Silo-plugin) | BhanuRathore21 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [bea-silo](https://github.com/BeAPI/bea-silo) | BeAPI | Dev oriented plugin to add silo feature (IN DEVELOPMENT) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [cumulocity-silo-capacity-widget-plugin](https://github.com/Cumulocity-IoT/cumulocity-silo-capacity-widget-plugin) | Cumulocity-IoT | The Silo Capacity Widget displays a configurable silo capacity graphic with fill levels, foreground image, background image and thresholds. Created by Global Presales. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [dtg-claude-plugins](https://github.com/daikitigogo/dtg-claude-plugins) | daikitigogo | Claude Code plugin marketplace: runnel (task orchestrator) and silo (atomic knowledge skills) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [flickrsilo](https://github.com/habari/flickrsilo) | habari | Core Plugin Flickr Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [habaribox](https://github.com/habari-extras/habaribox) | habari-extras | PLUGIN: This plugin allows posts to be synced with Dropbox, providing an easy way to edit them anywhere. It also creates a media silo for Dropbox. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [peertube-plugin-siloytube-navigation](https://github.com/TRIALTA/peertube-plugin-siloytube-navigation) | TRIALTA | PeerTube plugin to hide the navigation for several usergroups | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [photozousilo](https://github.com/habari-extras/photozousilo) | habari-extras | PLUGIN: Photozou silo (<a href="http://photozou.jp/">http://photozou.jp</a>) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [picasasilo](https://github.com/habari-extras/picasasilo) | habari-extras | PLUGIN: Picasa Silo plugin | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-adult](https://github.com/RXWatcher/silo-plugin-adult) | RXWatcher | Continuum metadata plugin for adult content (ThePornDB, Stash) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-aiostreams](https://github.com/drondeseries/silo-plugin-aiostreams) | drondeseries | AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) | theramindex | Generates native deep links and launcher shortcuts for external clients from the Silo dashboard. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-metadb](https://github.com/RXWatcher/silo-plugin-metadb) | RXWatcher | First-party Silo metadata provider plugin backed by MetaDB. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-public-catalog](https://github.com/RXWatcher/silo-plugin-public-catalog) | RXWatcher | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-sdk](https://github.com/Silo-Server/silo-plugin-sdk) | Silo-Server | Public Go SDK and protobuf contracts for building Silo plugins. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-support](https://github.com/RXWatcher/silo-plugin-support) | RXWatcher | Ticketing and utility integration shell providing speedtests, knowledgebase access, and support tickets in-app. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
+| [silo-plugins](https://github.com/theramindex/silo-plugins) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugins-catalog](https://github.com/Neoo-Blue/silo-plugins-catalog) | Neoo-Blue | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-sonar-plugin](https://github.com/christian-willman/silo-sonar-plugin) | christian-willman | Silo identifies and helps remediate knowledge siloing in codebases shared across small- and medium-sized teams. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-whmcs-module](https://github.com/RXWatcher/silo-whmcs-module) | RXWatcher | WHMCS billing provisioner module to automate creating and managing Silo Server user accounts and server instances. | 🟢 **Active** | `WHMCS Integration` | ✅ Yes |
+| [silotek-plugin-marketplace](https://github.com/JOCOIN94/silotek-plugin-marketplace) | JOCOIN94 | Internal Claude Code plugin marketplace for Silotek workflows. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [smugmug-silo](https://github.com/lildude/smugmug-silo) | lildude | The SmugMug Media Silo plugin implements a Habari silo to access your SmugMug photos making it easy to include images in posts and pages and also upload images directly to SmugMug. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [twittersilo](https://github.com/habari-extras/twittersilo) | habari-extras | PLUGIN: Simple Twitter Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [wp-silo](https://github.com/sharmashivanand/wp-silo) | sharmashivanand | This plugin helps you to establish a well-structured SILO architecture on your WordPress website | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 
 ---
 

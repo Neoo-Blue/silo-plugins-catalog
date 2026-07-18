@@ -1,0 +1,13 @@
+{
+  "name": "smugmug-silo",
+  "repo_url": "https://github.com/lildude/smugmug-silo",
+  "category": "Utility & UI Integrations",
+  "description": "The SmugMug Media Silo plugin implements a Habari silo to access your SmugMug photos making it easy to include images in posts and pages and also upload images directly to SmugMug.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "lildude",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/lildude/smugmug-silo"
+  ]
+}

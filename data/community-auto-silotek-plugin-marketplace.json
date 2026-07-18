@@ -1,0 +1,13 @@
+{
+  "name": "silotek-plugin-marketplace",
+  "repo_url": "https://github.com/JOCOIN94/silotek-plugin-marketplace",
+  "category": "Utility & UI Integrations",
+  "description": "Internal Claude Code plugin marketplace for Silotek workflows.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "JOCOIN94",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/JOCOIN94/silotek-plugin-marketplace"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bea-silo",
+  "repo_url": "https://github.com/BeAPI/bea-silo",
+  "category": "Utility & UI Integrations",
+  "description": "Dev oriented plugin to add silo feature (IN DEVELOPMENT)",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "BeAPI",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/BeAPI/bea-silo"
+  ]
+}

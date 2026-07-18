@@ -1,0 +1,44 @@
+name: Daily Catalog Update
+
+on:
+  schedule:
+    # Run once daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Allow manual triggering from GitHub UI
+
+permissions:
+  contents: write # Required to push the updated catalog back to the repo
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Run Catalog Updater
+      run: |
+        python scripts/update_catalog.py
+
+    - name: Commit and Push Changes
+      run: |
+        # Configure git client
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Check if there are changes to commit
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "Changes detected. Committing and pushing..."
+          git add .
+          git commit -m "chore: auto-update catalog with newly discovered plugins"
+          git push
+        else
+          echo "No changes detected. Catalog is up to date."
+        fi

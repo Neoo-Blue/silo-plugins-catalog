@@ -1,0 +1,13 @@
+{
+  "name": "silo-sonar-plugin",
+  "repo_url": "https://github.com/christian-willman/silo-sonar-plugin",
+  "category": "Utility & UI Integrations",
+  "description": "Silo identifies and helps remediate knowledge siloing in codebases shared across small- and medium-sized teams.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "christian-willman",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/christian-willman/silo-sonar-plugin"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Semantic-Silo-Pro-Plugin-Development",
+  "repo_url": "https://github.com/bluesky0427/Semantic-Silo-Pro-Plugin-Development",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "bluesky0427",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/bluesky0427/Semantic-Silo-Pro-Plugin-Development"
+  ]
+}

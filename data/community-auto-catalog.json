@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugins-catalog",
+  "repo_url": "https://github.com/Neoo-Blue/silo-plugins-catalog",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Neoo-Blue",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Neoo-Blue/silo-plugins-catalog"
+  ]
+}

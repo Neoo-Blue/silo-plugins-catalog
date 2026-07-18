@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadb",
+  "repo_url": "https://github.com/RXWatcher/silo-plugin-metadb",
+  "category": "Utility & UI Integrations",
+  "description": "First-party Silo metadata provider plugin backed by MetaDB.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "RXWatcher",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/RXWatcher/silo-plugin-metadb"
+  ]
+}

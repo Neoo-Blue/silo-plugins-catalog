@@ -1,0 +1,13 @@
+{
+  "name": "Q-in-the-Wild",
+  "repo_url": "https://github.com/cloudstreet-dev/Q-in-the-Wild",
+  "category": "Utility & UI Integrations",
+  "description": "kdb+/q is powerful but lives in a silo. This book tears down the walls — integrating Q with Rust, Python, and R, finding the IDE plugins that actually work, and connecting kdb+/q to web frameworks and mainstream tooling. For the Q developer who refuses to be an island.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "cloudstreet-dev",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/cloudstreet-dev/Q-in-the-Wild"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "peertube-plugin-siloytube-navigation",
+  "repo_url": "https://github.com/TRIALTA/peertube-plugin-siloytube-navigation",
+  "category": "Utility & UI Integrations",
+  "description": "PeerTube plugin to hide the navigation for several usergroups",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "TRIALTA",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/TRIALTA/peertube-plugin-siloytube-navigation"
+  ]
+}

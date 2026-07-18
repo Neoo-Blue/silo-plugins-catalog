@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-audiobook",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-metadata-audiobook",
+  "category": "Metadata Providers",
+  "description": "First-party silo metadata provider for audiobook items (Audnexus / AudiMeta / iTunes / Audible / Storytel).",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-metadata-audiobook"
+  ]
+}

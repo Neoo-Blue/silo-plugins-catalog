@@ -1,0 +1,13 @@
+{
+  "name": "habaribox",
+  "repo_url": "https://github.com/habari-extras/habaribox",
+  "category": "Utility & UI Integrations",
+  "description": "PLUGIN: This plugin allows posts to be synced with Dropbox, providing an easy way to edit them anywhere. It also creates a media silo for Dropbox.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "habari-extras",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/habari-extras/habaribox"
+  ]
+}

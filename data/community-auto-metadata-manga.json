@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-manga",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-metadata-manga",
+  "category": "Metadata Providers",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-metadata-manga"
+  ]
+}

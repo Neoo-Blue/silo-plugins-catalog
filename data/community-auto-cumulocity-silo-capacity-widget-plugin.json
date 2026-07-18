@@ -1,0 +1,13 @@
+{
+  "name": "cumulocity-silo-capacity-widget-plugin",
+  "repo_url": "https://github.com/Cumulocity-IoT/cumulocity-silo-capacity-widget-plugin",
+  "category": "Utility & UI Integrations",
+  "description": "The Silo Capacity Widget displays a configurable silo capacity graphic with fill levels, foreground image, background image and thresholds. Created by Global Presales.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Cumulocity-IoT",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Cumulocity-IoT/cumulocity-silo-capacity-widget-plugin"
+  ]
+}

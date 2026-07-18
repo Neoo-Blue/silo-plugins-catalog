@@ -1,0 +1,13 @@
+{
+  "name": "photozousilo",
+  "repo_url": "https://github.com/habari-extras/photozousilo",
+  "category": "Utility & UI Integrations",
+  "description": "PLUGIN: Photozou silo (<a href=\"http://photozou.jp/\">http://photozou.jp</a>)",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "habari-extras",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/habari-extras/photozousilo"
+  ]
+}

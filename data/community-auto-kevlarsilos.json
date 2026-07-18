@@ -1,0 +1,13 @@
+{
+  "name": "KevlarSilos",
+  "repo_url": "https://github.com/KevlarProps/KevlarSilos",
+  "category": "Utility & UI Integrations",
+  "description": "item silos mc plugin",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "KevlarProps",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/KevlarProps/KevlarSilos"
+  ]
+}

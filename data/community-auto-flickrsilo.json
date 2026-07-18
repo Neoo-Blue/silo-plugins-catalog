@@ -1,0 +1,13 @@
+{
+  "name": "flickrsilo",
+  "repo_url": "https://github.com/habari/flickrsilo",
+  "category": "Utility & UI Integrations",
+  "description": "Core Plugin Flickr Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "habari",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/habari/flickrsilo"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-sportarr",
+  "repo_url": "https://github.com/brettpetch/silo-plugin-sportarr",
+  "category": "Media Requests & Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "brettpetch",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/brettpetch/silo-plugin-sportarr"
+  ]
+}

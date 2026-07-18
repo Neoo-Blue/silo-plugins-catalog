@@ -1,0 +1,13 @@
+{
+  "name": "wp-silo",
+  "repo_url": "https://github.com/sharmashivanand/wp-silo",
+  "category": "Utility & UI Integrations",
+  "description": "This plugin helps you to establish a well-structured SILO architecture on your WordPress website",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "sharmashivanand",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/sharmashivanand/wp-silo"
+  ]
+}

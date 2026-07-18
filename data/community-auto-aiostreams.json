@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-aiostreams",
+  "repo_url": "https://github.com/drondeseries/silo-plugin-aiostreams",
+  "category": "Utility & UI Integrations",
+  "description": "AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "drondeseries",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/drondeseries/silo-plugin-aiostreams"
+  ]
+}

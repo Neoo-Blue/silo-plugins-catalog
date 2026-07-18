@@ -1,0 +1,13 @@
+{
+  "name": "SR_BiggerSilo",
+  "repo_url": "https://github.com/wledfor2/SR_BiggerSilo",
+  "category": "Utility & UI Integrations",
+  "description": "Slime Rancher Mod for Unity Plugin Manager that increases silo storage size. Adjusts the maximum number of items any in game entity that uses Silo storage components.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "wledfor2",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/wledfor2/SR_BiggerSilo"
+  ]
+}

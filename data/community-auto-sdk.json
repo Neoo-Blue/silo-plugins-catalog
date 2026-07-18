@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-sdk",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-sdk",
+  "category": "Utility & UI Integrations",
+  "description": "Public Go SDK and protobuf contracts for building Silo plugins.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-sdk"
+  ]
+}
