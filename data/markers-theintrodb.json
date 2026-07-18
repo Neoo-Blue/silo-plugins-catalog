@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-markers-theintrodb",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-markers-theintrodb",
+  "category": "Markers & Skip Providers",
+  "description": "First-party Silo marker provider plugin that fetches TV show intro and outro skip markers from TheIntroDB.",
+  "status": "Active",
+  "verified": true,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-markers-theintrodb"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-support",
+  "repo_url": "https://github.com/RXWatcher/silo-plugin-support",
+  "category": "Utility & UI Integrations",
+  "description": "Ticketing and utility integration shell providing speedtests, knowledgebase access, and support tickets in-app.",
+  "status": "Active",
+  "verified": true,
+  "developer": "RXWatcher",
+  "compatibility": "Silo / Continuum",
+  "citations": [
+    "https://github.com/RXWatcher/silo-plugin-support"
+  ]
+}

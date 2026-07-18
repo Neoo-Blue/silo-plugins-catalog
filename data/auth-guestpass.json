@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-guest-pass",
+  "repo_url": "https://github.com/RXWatcher/silo-plugin-guest-pass",
+  "category": "Authentication & Security",
+  "description": "Generates secure guest-access tokens for sharing temporary media playback sessions without creating full accounts.",
+  "status": "Active",
+  "verified": true,
+  "developer": "RXWatcher",
+  "compatibility": "Silo / Continuum",
+  "citations": [
+    "https://github.com/RXWatcher/silo-plugin-guest-pass"
+  ]
+}

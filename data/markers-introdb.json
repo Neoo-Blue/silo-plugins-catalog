@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-markers-introdb",
+  "repo_url": "https://github.com/RXWatcher/silo-plugin-markers-introdb",
+  "category": "Markers & Skip Providers",
+  "description": "Community marker provider integration supporting skip markers from TheIntroDB, optimized for Continuum instances.",
+  "status": "Active",
+  "verified": true,
+  "developer": "RXWatcher",
+  "compatibility": "Silo / Continuum",
+  "citations": [
+    "https://github.com/RXWatcher/silo-plugin-markers-introdb"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-xtream-library",
+  "repo_url": "https://github.com/theramindex/silo-plugin-xtream-library",
+  "category": "Live TV & IPTV",
+  "description": "IPTV library integration that maps Xtream Codes API stream structures directly into Silo Server media catalogs.",
+  "status": "Active",
+  "verified": true,
+  "developer": "theramindex",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/theramindex/silo-plugin-xtream-library"
+  ]
+}

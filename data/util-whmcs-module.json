@@ -1,0 +1,13 @@
+{
+  "name": "silo-whmcs-module",
+  "repo_url": "https://github.com/RXWatcher/silo-whmcs-module",
+  "category": "Utility & UI Integrations",
+  "description": "WHMCS billing provisioner module to automate creating and managing Silo Server user accounts and server instances.",
+  "status": "Active",
+  "verified": true,
+  "developer": "RXWatcher",
+  "compatibility": "WHMCS Integration",
+  "citations": [
+    "https://github.com/RXWatcher/silo-whmcs-module"
+  ]
+}

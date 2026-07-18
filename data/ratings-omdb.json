@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-omdb",
+  "repo_url": "https://github.com/zerodayz1/silo-plugin-omdb",
+  "category": "Ratings & Critic Scores",
+  "description": "Legacy Silo plugin that fetches IMDb ratings and Rotten Tomatoes critic scores via the OMDb API. Succeeded by silo-plugin-mdblist.",
+  "status": "Deprecated",
+  "verified": true,
+  "developer": "zerodayz1",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/zerodayz1/silo-plugin-omdb"
+  ]
+}

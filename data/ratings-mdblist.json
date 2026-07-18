@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-mdblist",
+  "repo_url": "https://github.com/zerodayz1/silo-plugin-mdblist",
+  "category": "Ratings & Critic Scores",
+  "description": "Silo metadata-provider plugin that fetches IMDb, Rotten Tomatoes, and Metacritic ratings/scores via the MDBList API. Serves as the modern successor to silo-plugin-omdb.",
+  "status": "Active",
+  "verified": true,
+  "developer": "zerodayz1",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/zerodayz1/silo-plugin-mdblist"
+  ]
+}

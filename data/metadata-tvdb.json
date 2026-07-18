@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-tvdb",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-metadata-tvdb",
+  "category": "Metadata Providers",
+  "description": "First-party Silo metadata provider plugin backed by TheTVDB. Fetches TV series, seasons, episodes, and related artwork details.",
+  "status": "Active",
+  "verified": true,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-metadata-tvdb"
+  ]
+}

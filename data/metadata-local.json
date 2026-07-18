@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-local-metadata",
+  "repo_url": "https://github.com/theramindex/silo-plugin-local-metadata",
+  "category": "Metadata Providers",
+  "description": "Community local metadata parser for reading local NFO files, poster assets, and sidecar media information.",
+  "status": "Active",
+  "verified": true,
+  "developer": "theramindex",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/theramindex/silo-plugin-local-metadata"
+  ]
+}

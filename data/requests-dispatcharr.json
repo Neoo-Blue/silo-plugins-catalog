@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-dispatcharr",
+  "repo_url": "https://github.com/theramindex/silo-plugin-dispatcharr",
+  "category": "Media Requests & Integrations",
+  "description": "Silo request plugin that dispatches user movie/TV requests to downstream Radarr and Sonarr media stacks.",
+  "status": "Active",
+  "verified": true,
+  "developer": "theramindex",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/theramindex/silo-plugin-dispatcharr"
+  ]
+}

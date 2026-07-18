@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-tmdb",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-metadata-tmdb",
+  "category": "Metadata Providers",
+  "description": "First-party Silo metadata provider plugin backed by The Movie Database (TMDB). Fetches movie and TV show titles, seasons, episodes, and poster artwork.",
+  "status": "Active",
+  "verified": true,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-metadata-tmdb"
+  ]
+}

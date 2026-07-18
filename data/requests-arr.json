@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugins-requests-arr",
+  "repo_url": "https://github.com/Silo-Community/silo-plugins-requests-arr",
+  "category": "Media Requests & Integrations",
+  "description": "Approved Silo community request plugin that routes movie and series request calls from the Silo UI directly to Sonarr and Radarr queues.",
+  "status": "Active",
+  "verified": true,
+  "developer": "Silo-Community",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Community/silo-plugins-requests-arr"
+  ]
+}

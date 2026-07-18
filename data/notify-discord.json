@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-discord",
+  "repo_url": "https://github.com/thezak48/silo-plugin-discord",
+  "category": "Notifications & Webhooks",
+  "description": "Dispatches webhook notifications to Discord channels for server events like new library content additions or stream activity.",
+  "status": "Active",
+  "verified": true,
+  "developer": "thezak48",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/thezak48/silo-plugin-discord"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-app-links",
+  "repo_url": "https://github.com/theramindex/silo-plugin-app-links",
+  "category": "Utility & UI Integrations",
+  "description": "Generates native deep links and launcher shortcuts for external clients from the Silo dashboard.",
+  "status": "Active",
+  "verified": true,
+  "developer": "theramindex",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/theramindex/silo-plugin-app-links"
+  ]
+}

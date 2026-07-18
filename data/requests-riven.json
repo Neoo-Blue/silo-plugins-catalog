@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugins-request-riven",
+  "repo_url": "https://github.com/olivertgwalton/silo-plugins-request-riven",
+  "category": "Media Requests & Integrations",
+  "description": "Silo request router plugin that integrates content requests with Riven, a Debrid-based media download orchestrator.",
+  "status": "Active",
+  "verified": true,
+  "developer": "olivertgwalton",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/olivertgwalton/silo-plugins-request-riven"
+  ]
+}

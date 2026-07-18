@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-manga-metadata",
+  "repo_url": "https://github.com/RXWatcher/silo-plugin-manga-metadata",
+  "category": "Metadata Providers",
+  "description": "Community metadata provider plugin for scraping manga titles, chapters, cover images, and descriptions.",
+  "status": "Active",
+  "verified": true,
+  "developer": "RXWatcher",
+  "compatibility": "Silo SDK / Continuum",
+  "citations": [
+    "https://github.com/RXWatcher/silo-plugin-manga-metadata"
+  ]
+}

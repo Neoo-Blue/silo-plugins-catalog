@@ -1,0 +1,14 @@
+{
+  "name": "silo-plugin-metadata-sportarr",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-metadata-sportarr",
+  "category": "Metadata Providers",
+  "description": "Official fork of the community-developed sports metadata provider. Fetches sports league data via the Sportarr API, mapping leagues to TV series, seasons to seasons, and events to episodes.",
+  "status": "Active",
+  "verified": true,
+  "developer": "Silo-Server (originally brettpetch)",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-metadata-sportarr",
+    "https://github.com/brettpetch/silo-plugin-sportarr"
+  ]
+}

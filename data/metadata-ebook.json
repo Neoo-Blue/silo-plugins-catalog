@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-ebook",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-metadata-ebook",
+  "category": "Metadata Providers",
+  "description": "First-party plugin intended for ebook metadata scraper integration within the Silo ecosystem.",
+  "status": "In Development",
+  "verified": true,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-metadata-ebook"
+  ]
+}

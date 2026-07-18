@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-whmcs-login",
+  "repo_url": "https://github.com/RXWatcher/silo-plugin-whmcs-login",
+  "category": "Authentication & Security",
+  "description": "WHMCS login integration to authenticate server clients directly against billing records and subscriptions in WHMCS.",
+  "status": "Active",
+  "verified": true,
+  "developer": "RXWatcher",
+  "compatibility": "Silo / Continuum",
+  "citations": [
+    "https://github.com/RXWatcher/silo-plugin-whmcs-login"
+  ]
+}

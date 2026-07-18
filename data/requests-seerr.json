@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugins-requests-seerr",
+  "repo_url": "https://github.com/Silo-Community/silo-plugins-requests-seerr",
+  "category": "Media Requests & Integrations",
+  "description": "Approved Silo community request plugin that routes content requests through a Seerr or Jellyseerr API manager.",
+  "status": "Active",
+  "verified": true,
+  "developer": "Silo-Community",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Community/silo-plugins-requests-seerr"
+  ]
+}
