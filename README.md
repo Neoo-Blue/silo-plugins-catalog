@@ -24,6 +24,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 
 | Plugin / Name | Developer | Description | Status | Compatibility | Verified |
 | :--- | :--- | :--- | :--- | :--- | :---: |
+| [silo-plugin-aiometadata](https://github.com/drondeseries/silo-plugin-aiometadata) | drondeseries | Standalone Silo metadata provider backed by AIOMetadata | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-local-metadata](https://github.com/theramindex/silo-plugin-local-metadata) | theramindex | Community local metadata parser for reading local NFO files, poster assets, and sidecar media information. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-manga-metadata](https://github.com/RXWatcher/silo-plugin-manga-metadata) | RXWatcher | Community metadata provider plugin for scraping manga titles, chapters, cover images, and descriptions. | 🟢 **Active** | `Silo SDK / Continuum` | ⚠️ Downstream |
 | [silo-plugin-metadata-audiobook](https://github.com/Silo-Server/silo-plugin-metadata-audiobook) | Silo-Server | First-party silo metadata provider for audiobook items (Audnexus / AudiMeta / iTunes / Audible / Storytel). | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -111,6 +112,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [peertube-plugin-siloytube-navigation](https://github.com/TRIALTA/peertube-plugin-siloytube-navigation) | TRIALTA | PeerTube plugin to hide the navigation for several usergroups | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [photozousilo](https://github.com/habari-extras/photozousilo) | habari-extras | PLUGIN: Photozou silo (<a href="http://photozou.jp/">http://photozou.jp</a>) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [picasasilo](https://github.com/habari-extras/picasasilo) | habari-extras | PLUGIN: Picasa Silo plugin | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-anilist-sync](https://github.com/crowquillx/silo-anilist-sync) | crowquillx | Silo Server plugin that syncs watched anime progress to AniList | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-adult](https://github.com/RXWatcher/silo-plugin-adult) | RXWatcher | Continuum metadata plugin for adult content (ThePornDB, Stash) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-aiostreams](https://github.com/drondeseries/silo-plugin-aiostreams) | drondeseries | AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) | theramindex | Generates native deep links and launcher shortcuts for external clients from the Silo dashboard. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
@@ -118,6 +120,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-public-catalog](https://github.com/RXWatcher/silo-plugin-public-catalog) | RXWatcher | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-sdk](https://github.com/Silo-Server/silo-plugin-sdk) | Silo-Server | Public Go SDK and protobuf contracts for building Silo plugins. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-support](https://github.com/RXWatcher/silo-plugin-support) | RXWatcher | Ticketing and utility integration shell providing speedtests, knowledgebase access, and support tickets in-app. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
+| [silo-plugin-wisp](https://github.com/dreulavelle/silo-plugin-wisp) | dreulavelle | Thin Silo request_router.v1 plugin that delegates fulfillment to a Wisp server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins](https://github.com/theramindex/silo-plugins) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins-catalog](https://github.com/Neoo-Blue/silo-plugins-catalog) | Neoo-Blue | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-sonar-plugin](https://github.com/christian-willman/silo-sonar-plugin) | christian-willman | Silo identifies and helps remediate knowledge siloing in codebases shared across small- and medium-sized teams. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |

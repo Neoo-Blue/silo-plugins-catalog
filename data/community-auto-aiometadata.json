@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-aiometadata",
+  "repo_url": "https://github.com/drondeseries/silo-plugin-aiometadata",
+  "category": "Metadata Providers",
+  "description": "Standalone Silo metadata provider backed by AIOMetadata",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "drondeseries",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/drondeseries/silo-plugin-aiometadata"
+  ]
+}

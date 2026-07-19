@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-wisp",
+  "repo_url": "https://github.com/dreulavelle/silo-plugin-wisp",
+  "category": "Utility & UI Integrations",
+  "description": "Thin Silo request_router.v1 plugin that delegates fulfillment to a Wisp server",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "dreulavelle",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/dreulavelle/silo-plugin-wisp"
+  ]
+}

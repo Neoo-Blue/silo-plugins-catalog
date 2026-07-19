@@ -1,0 +1,13 @@
+{
+  "name": "silo-anilist-sync",
+  "repo_url": "https://github.com/crowquillx/silo-anilist-sync",
+  "category": "Utility & UI Integrations",
+  "description": "Silo Server plugin that syncs watched anime progress to AniList",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "crowquillx",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/crowquillx/silo-anilist-sync"
+  ]
+}
