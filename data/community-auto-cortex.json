@@ -1,0 +1,13 @@
+{
+  "name": "cortex",
+  "repo_url": "https://github.com/codexbt/cortex",
+  "category": "Utility & UI Integrations",
+  "description": "We built Cortex 100% open-source because we believe the future of AI engineering belongs to the open developer community, not closed silos.  We are looking for developers, contributors, and builders to take Cortex to the next level (adding multi-modal terminal vision, local LLM optimizations, and custom agent plugins).",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "codexbt",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/codexbt/cortex"
+  ]
+}
