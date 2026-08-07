@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-local-artwork",
+  "repo_url": "https://github.com/theramindex/silo-plugin-local-artwork",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "theramindex",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/theramindex/silo-plugin-local-artwork"
+  ]
+}

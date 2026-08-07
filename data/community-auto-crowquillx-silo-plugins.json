@@ -1,0 +1,13 @@
+{
+  "name": "crowquillx-silo-plugins",
+  "repo_url": "https://github.com/crowquillx/crowquillx-silo-plugins",
+  "category": "Utility & UI Integrations",
+  "description": "Unofficial Silo plugin catalog maintained by crowquillx",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "crowquillx",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/crowquillx/crowquillx-silo-plugins"
+  ]
+}
