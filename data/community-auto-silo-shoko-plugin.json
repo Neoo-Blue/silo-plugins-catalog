@@ -1,0 +1,13 @@
+{
+  "name": "silo-shoko-plugin",
+  "repo_url": "https://github.com/crowquillx/silo-shoko-plugin",
+  "category": "Utility & UI Integrations",
+  "description": "Shoko-backed virtual filesystem and metadata plugin for Silo Server",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "crowquillx",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/crowquillx/silo-shoko-plugin"
+  ]
+}
