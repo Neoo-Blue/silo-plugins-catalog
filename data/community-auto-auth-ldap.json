@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-auth-ldap",
+  "repo_url": "https://github.com/Pfuenzle/silo-plugin-auth-ldap",
+  "category": "Authentication & Security",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Pfuenzle",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Pfuenzle/silo-plugin-auth-ldap"
+  ]
+}

@@ -71,6 +71,8 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 
 | Plugin / Name | Developer | Description | Status | Compatibility | Verified |
 | :--- | :--- | :--- | :--- | :--- | :---: |
+| [silo-plugin-auth-ldap](https://github.com/Pfuenzle/silo-plugin-auth-ldap) | Pfuenzle | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-auth-oidc](https://github.com/Pfuenzle/silo-plugin-auth-oidc) | Pfuenzle | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-guest-pass](https://github.com/RXWatcher/silo-plugin-guest-pass) | RXWatcher | Generates secure guest-access tokens for sharing temporary media playback sessions without creating full accounts. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 | [silo-plugin-oidc-login](https://github.com/RXWatcher/silo-plugin-oidc-login) | RXWatcher | Authentication plugin enabling Single Sign-On (SSO) via OpenID Connect (OIDC) identity providers (e.g., Authelia, Keycloak, Authentik). | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 | [silo-plugin-whmcs-login](https://github.com/RXWatcher/silo-plugin-whmcs-login) | RXWatcher | WHMCS login integration to authenticate server clients directly against billing records and subscriptions in WHMCS. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
