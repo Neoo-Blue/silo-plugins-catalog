@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-sync-watcharr",
+  "repo_url": "https://github.com/mildman1848/silo-plugin-sync-watcharr",
+  "category": "Media Requests & Integrations",
+  "description": "Silo watch sync provider for two-way watched movie and episode sync with Watcharr",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "mildman1848",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/mildman1848/silo-plugin-sync-watcharr"
+  ]
+}
