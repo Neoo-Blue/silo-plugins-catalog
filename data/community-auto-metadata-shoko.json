@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-shoko",
+  "repo_url": "https://github.com/RickDB/silo-plugin-metadata-shoko",
+  "category": "Metadata Providers",
+  "description": "Silo Shoko Metadata Plugin",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "RickDB",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/RickDB/silo-plugin-metadata-shoko"
+  ]
+}
