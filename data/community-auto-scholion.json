@@ -1,0 +1,13 @@
+{
+  "name": "scholion",
+  "repo_url": "https://github.com/CrossRead/scholion",
+  "category": "Utility & UI Integrations",
+  "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. This reads them against each other, with the source behind every answer — one local engine behind a web UI, a CLI, a Claude skill, and an Ouroboros plugin.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "CrossRead",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/CrossRead/scholion"
+  ]
+}

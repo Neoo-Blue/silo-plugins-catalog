@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-legendasdivx",
+  "repo_url": "https://github.com/SomeoneLis/silo-plugin-legendasdivx",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "SomeoneLis",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/SomeoneLis/silo-plugin-legendasdivx"
+  ]
+}
