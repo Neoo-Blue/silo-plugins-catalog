@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-yamtrack",
+  "repo_url": "https://github.com/artifaxx/silo-plugin-yamtrack",
+  "category": "Utility & UI Integrations",
+  "description": "Silo watch provider plugin: scrobble playback to a self-hosted Yamtrack instance via its Jellyfin webhook.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "artifaxx",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/artifaxx/silo-plugin-yamtrack"
+  ]
+}
