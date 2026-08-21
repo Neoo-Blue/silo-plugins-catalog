@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-watchprovider-floppy",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-watchprovider-floppy",
+  "category": "Utility & UI Integrations",
+  "description": "Floppy watch-provider plugin for Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-watchprovider-floppy"
+  ]
+}

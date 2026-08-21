@@ -129,6 +129,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-public-catalog](https://github.com/RXWatcher/silo-plugin-public-catalog) | RXWatcher | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-sdk](https://github.com/Silo-Server/silo-plugin-sdk) | Silo-Server | Public Go SDK and protobuf contracts for building Silo plugins. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-support](https://github.com/RXWatcher/silo-plugin-support) | RXWatcher | Ticketing and utility integration shell providing speedtests, knowledgebase access, and support tickets in-app. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
+| [silo-plugin-watchprovider-floppy](https://github.com/Silo-Server/silo-plugin-watchprovider-floppy) | Silo-Server | Floppy watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-wisp](https://github.com/dreulavelle/silo-plugin-wisp) | dreulavelle | Thin Silo request_router.v1 plugin that delegates fulfillment to a Wisp server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-yamtrack](https://github.com/artifaxx/silo-plugin-yamtrack) | artifaxx | Silo watch provider plugin: scrobble playback to a self-hosted Yamtrack instance via its Jellyfin webhook. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins](https://github.com/theramindex/silo-plugins) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
