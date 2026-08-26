@@ -102,6 +102,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 
 | Plugin / Name | Developer | Description | Status | Compatibility | Verified |
 | :--- | :--- | :--- | :--- | :--- | :---: |
+| [AI-Native-eCommerce-for-B2B-B2C-Marketplaces-What-It-Actually-Means-for-Your-Business](https://github.com/Diginyze/AI-Native-eCommerce-for-B2B-B2C-Marketplaces-What-It-Actually-Means-for-Your-Business) | Diginyze | There's a real difference between a platform that has AI features and one that's built on AI. A traditional eCommerce platform with AI plugins treats intelligence as an afterthought  a recommendation engine here, a chatbot there, each running in its own silo.  | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [KevlarSilos](https://github.com/KevlarProps/KevlarSilos) | KevlarProps | item silos mc plugin | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [PluginSilo](https://github.com/chinask5/PluginSilo) | chinask5 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [Q-in-the-Wild](https://github.com/cloudstreet-dev/Q-in-the-Wild) | cloudstreet-dev | kdb+/q is powerful but lives in a silo. This book tears down the walls — integrating Q with Rust, Python, and R, finding the IDE plugins that actually work, and connecting kdb+/q to web frameworks and mainstream tooling. For the Q developer who refuses to be an island. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |

@@ -1,0 +1,13 @@
+{
+  "name": "AI-Native-eCommerce-for-B2B-B2C-Marketplaces-What-It-Actually-Means-for-Your-Business",
+  "repo_url": "https://github.com/Diginyze/AI-Native-eCommerce-for-B2B-B2C-Marketplaces-What-It-Actually-Means-for-Your-Business",
+  "category": "Utility & UI Integrations",
+  "description": "There's a real difference between a platform that has AI features and one that's built on AI. A traditional eCommerce platform with AI plugins treats intelligence as an afterthought  a recommendation engine here, a chatbot there, each running in its own silo. ",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Diginyze",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Diginyze/AI-Native-eCommerce-for-B2B-B2C-Marketplaces-What-It-Actually-Means-for-Your-Business"
+  ]
+}
