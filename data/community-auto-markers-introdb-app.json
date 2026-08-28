@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-markers-introdb-app",
+  "repo_url": "https://github.com/blurbery/silo-plugin-markers-introdb-app",
+  "category": "Markers & Skip Providers",
+  "description": "A Silo-managed marker provider for IntroDB.app",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "blurbery",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/blurbery/silo-plugin-markers-introdb-app"
+  ]
+}
