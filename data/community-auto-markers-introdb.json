@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugins-markers-introdb",
+  "repo_url": "https://github.com/Silo-Community/silo-plugins-markers-introdb",
+  "category": "Markers & Skip Providers",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Community",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Community/silo-plugins-markers-introdb"
+  ]
+}

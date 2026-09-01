@@ -96,6 +96,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-markers-introdb](https://github.com/RXWatcher/silo-plugin-markers-introdb) | RXWatcher | Community marker provider integration supporting skip markers from TheIntroDB, optimized for Continuum instances. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 | [silo-plugin-markers-introdb-app](https://github.com/blurbery/silo-plugin-markers-introdb-app) | blurbery | A Silo-managed marker provider for IntroDB.app | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-markers-theintrodb](https://github.com/Silo-Server/silo-plugin-markers-theintrodb) | Silo-Server | First-party Silo marker provider plugin that fetches TV show intro and outro skip markers from TheIntroDB. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugins-markers-introdb](https://github.com/Silo-Community/silo-plugins-markers-introdb) | Silo-Community | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 
 ---
 
