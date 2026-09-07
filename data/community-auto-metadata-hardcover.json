@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-hardcover",
+  "repo_url": "https://github.com/totza2010/silo-plugin-metadata-hardcover",
+  "category": "Metadata Providers",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "totza2010",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/totza2010/silo-plugin-metadata-hardcover"
+  ]
+}
