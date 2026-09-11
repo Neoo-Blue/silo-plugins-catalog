@@ -1,0 +1,13 @@
+{
+  "name": "silo-auto-translate",
+  "repo_url": "https://github.com/randrini/silo-auto-translate",
+  "category": "Utility & UI Integrations",
+  "description": "Silo plugin: auto extract+translate subtitles (FR) from rating webhooks via SubExtractor",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "randrini",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/randrini/silo-auto-translate"
+  ]
+}
