@@ -1,0 +1,13 @@
+{
+  "name": "silo-comic-pages",
+  "repo_url": "https://github.com/crowquillx/silo-comic-pages",
+  "category": "Utility & UI Integrations",
+  "description": "Silo plugin that extracts and caches CBR/CBZ comic pages for Aidoku",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "crowquillx",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/crowquillx/silo-comic-pages"
+  ]
+}
