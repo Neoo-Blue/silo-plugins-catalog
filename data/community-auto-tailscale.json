@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-tailscale",
+  "repo_url": "https://github.com/ironicbadger/silo-plugin-tailscale",
+  "category": "Utility & UI Integrations",
+  "description": "Tailscale plugin for Silo Media Server",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "ironicbadger",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/ironicbadger/silo-plugin-tailscale"
+  ]
+}
