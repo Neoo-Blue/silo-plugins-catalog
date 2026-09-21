@@ -1,0 +1,13 @@
+{
+  "name": "spiritual-calculators",
+  "repo_url": "https://github.com/fahimafrit/spiritual-calculators",
+  "category": "Utility & UI Integrations",
+  "description": "WordPress-based platform for Destiny Matrix, Numerology, and Astrology calculators — custom PHP plugin architecture, SEO content silos, and AI-powered interpretation engine.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "fahimafrit",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/fahimafrit/spiritual-calculators"
+  ]
+}

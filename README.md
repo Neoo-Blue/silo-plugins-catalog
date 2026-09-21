@@ -147,6 +147,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-whmcs-module](https://github.com/RXWatcher/silo-whmcs-module) | RXWatcher | WHMCS billing provisioner module to automate creating and managing Silo Server user accounts and server instances. | 🟢 **Active** | `WHMCS Integration` | ✅ Yes |
 | [silotek-plugin-marketplace](https://github.com/JOCOIN94/silotek-plugin-marketplace) | JOCOIN94 | Internal Claude Code plugin marketplace for Silotek workflows. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [smugmug-silo](https://github.com/lildude/smugmug-silo) | lildude | The SmugMug Media Silo plugin implements a Habari silo to access your SmugMug photos making it easy to include images in posts and pages and also upload images directly to SmugMug. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [spiritual-calculators](https://github.com/fahimafrit/spiritual-calculators) | fahimafrit | WordPress-based platform for Destiny Matrix, Numerology, and Astrology calculators — custom PHP plugin architecture, SEO content silos, and AI-powered interpretation engine. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [twittersilo](https://github.com/habari-extras/twittersilo) | habari-extras | PLUGIN: Simple Twitter Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [wp-silo](https://github.com/sharmashivanand/wp-silo) | sharmashivanand | This plugin helps you to establish a well-structured SILO architecture on your WordPress website | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 
