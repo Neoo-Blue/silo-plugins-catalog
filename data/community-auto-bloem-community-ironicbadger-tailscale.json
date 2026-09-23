@@ -1,0 +1,13 @@
+{
+  "name": "bloem-community-ironicbadger-tailscale",
+  "repo_url": "https://github.com/Bloem-Studios/bloem-community-ironicbadger-tailscale",
+  "category": "Utility & UI Integrations",
+  "description": "Tailscale plugin for Silo Media Server",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Bloem-Studios",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Bloem-Studios/bloem-community-ironicbadger-tailscale"
+  ]
+}
