@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-mdblist",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-metadata-mdblist",
+  "category": "Metadata Providers",
+  "description": "MDBList metadata enrichment provider for Silo: aggregated ratings, Common Sense age rating, and release certification.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-metadata-mdblist"
+  ]
+}
