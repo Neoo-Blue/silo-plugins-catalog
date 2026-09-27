@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-javbeacon",
+  "repo_url": "https://github.com/Net005/silo-plugin-metadata-javbeacon",
+  "category": "Metadata Providers",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Net005",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Net005/silo-plugin-metadata-javbeacon"
+  ]
+}
