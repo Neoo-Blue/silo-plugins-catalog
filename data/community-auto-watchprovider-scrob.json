@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-watchprovider-scrob",
+  "repo_url": "https://github.com/foux/silo-plugin-watchprovider-scrob",
+  "category": "Utility & UI Integrations",
+  "description": "Silo watch-provider plugin that syncs watch history, progress, ratings and live playback with a self-hosted Scrob instance.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "foux",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/foux/silo-plugin-watchprovider-scrob"
+  ]
+}
