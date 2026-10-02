@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-watchprovider-simkl",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-watchprovider-simkl",
+  "category": "Utility & UI Integrations",
+  "description": "Simkl watch-provider plugin for Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-watchprovider-simkl"
+  ]
+}

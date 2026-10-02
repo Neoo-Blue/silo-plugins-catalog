@@ -1,0 +1,13 @@
+{
+  "name": "vio-plugins",
+  "repo_url": "https://github.com/gurgles-1/vio-plugins",
+  "category": "Utility & UI Integrations",
+  "description": "Evan's personal Vio/Silo plugin collection — one catalog for all his plugins",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "gurgles-1",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/gurgles-1/vio-plugins"
+  ]
+}

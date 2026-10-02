@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-watchprovider-trakt",
+  "repo_url": "https://github.com/Silo-Server/silo-plugin-watchprovider-trakt",
+  "category": "Utility & UI Integrations",
+  "description": "Trakt watch-provider plugin for Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Silo-Server",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Silo-Server/silo-plugin-watchprovider-trakt"
+  ]
+}

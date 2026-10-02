@@ -141,7 +141,10 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-support](https://github.com/RXWatcher/silo-plugin-support) | RXWatcher | Ticketing and utility integration shell providing speedtests, knowledgebase access, and support tickets in-app. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 | [silo-plugin-tailscale](https://github.com/ironicbadger/silo-plugin-tailscale) | ironicbadger | Tailscale plugin for Silo Media Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-floppy](https://github.com/Silo-Server/silo-plugin-watchprovider-floppy) | Silo-Server | Floppy watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-watchprovider-mdblist](https://github.com/Silo-Server/silo-plugin-watchprovider-mdblist) | Silo-Server | MDBList watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-scrob](https://github.com/foux/silo-plugin-watchprovider-scrob) | foux | Silo watch-provider plugin that syncs watch history, progress, ratings and live playback with a self-hosted Scrob instance. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-watchprovider-simkl](https://github.com/Silo-Server/silo-plugin-watchprovider-simkl) | Silo-Server | Simkl watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-watchprovider-trakt](https://github.com/Silo-Server/silo-plugin-watchprovider-trakt) | Silo-Server | Trakt watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-wisp](https://github.com/dreulavelle/silo-plugin-wisp) | dreulavelle | Thin Silo request_router.v1 plugin that delegates fulfillment to a Wisp server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-yamtrack](https://github.com/artifaxx/silo-plugin-yamtrack) | artifaxx | Silo watch provider plugin: scrobble playback to a self-hosted Yamtrack instance via its Jellyfin webhook. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins](https://github.com/theramindex/silo-plugins) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -153,6 +156,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [smugmug-silo](https://github.com/lildude/smugmug-silo) | lildude | The SmugMug Media Silo plugin implements a Habari silo to access your SmugMug photos making it easy to include images in posts and pages and also upload images directly to SmugMug. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [spiritual-calculators](https://github.com/fahimafrit/spiritual-calculators) | fahimafrit | WordPress-based platform for Destiny Matrix, Numerology, and Astrology calculators — custom PHP plugin architecture, SEO content silos, and AI-powered interpretation engine. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [twittersilo](https://github.com/habari-extras/twittersilo) | habari-extras | PLUGIN: Simple Twitter Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [vio-plugins](https://github.com/gurgles-1/vio-plugins) | gurgles-1 | Evan's personal Vio/Silo plugin collection — one catalog for all his plugins | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [wp-silo](https://github.com/sharmashivanand/wp-silo) | sharmashivanand | This plugin helps you to establish a well-structured SILO architecture on your WordPress website | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 
 ---
