@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-letterboxd",
+  "repo_url": "https://github.com/bulderi/silo-plugin-letterboxd",
+  "category": "Utility & UI Integrations",
+  "description": "Silo watch sync plugin: sync a Letterboxd watchlist with Silo (movies only)",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "bulderi",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/bulderi/silo-plugin-letterboxd"
+  ]
+}

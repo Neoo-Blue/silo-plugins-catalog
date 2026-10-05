@@ -35,6 +35,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-metadata-mdblist](https://github.com/Silo-Server/silo-plugin-metadata-mdblist) | Silo-Server | MDBList metadata enrichment provider for Silo: aggregated ratings, Common Sense age rating, and release certification. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-shoko](https://github.com/RickDB/silo-plugin-metadata-shoko) | RickDB | Silo Shoko Metadata Plugin | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-sportarr](https://github.com/Silo-Server/silo-plugin-metadata-sportarr) | Silo-Server (originally brettpetch) | Official fork of the community-developed sports metadata provider. Fetches sports league data via the Sportarr API, mapping leagues to TV series, seasons to seasons, and events to episodes. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-metadata-stash](https://github.com/Net005/silo-plugin-metadata-stash) | Net005 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-tmdb](https://github.com/Silo-Server/silo-plugin-metadata-tmdb) | Silo-Server | First-party Silo metadata provider plugin backed by The Movie Database (TMDB). Fetches movie and TV show titles, seasons, episodes, and poster artwork. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-metadata-tvdb](https://github.com/Silo-Server/silo-plugin-metadata-tvdb) | Silo-Server | First-party Silo metadata provider plugin backed by TheTVDB. Fetches TV series, seasons, episodes, and related artwork details. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 
@@ -134,6 +135,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-aiostreams](https://github.com/drondeseries/silo-plugin-aiostreams) | drondeseries | AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) | theramindex | Generates native deep links and launcher shortcuts for external clients from the Silo dashboard. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-legendasdivx](https://github.com/SomeoneLis/silo-plugin-legendasdivx) | SomeoneLis | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-letterboxd](https://github.com/bulderi/silo-plugin-letterboxd) | bulderi | Silo watch sync plugin: sync a Letterboxd watchlist with Silo (movies only) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-local-artwork](https://github.com/theramindex/silo-plugin-local-artwork) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadb](https://github.com/RXWatcher/silo-plugin-metadb) | RXWatcher | First-party Silo metadata provider plugin backed by MetaDB. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-public-catalog](https://github.com/RXWatcher/silo-plugin-public-catalog) | RXWatcher | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
