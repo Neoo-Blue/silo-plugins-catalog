@@ -1,0 +1,13 @@
+{
+  "name": "silo-aura-plugin",
+  "repo_url": "https://github.com/Artic0din/silo-aura-plugin",
+  "category": "Utility & UI Integrations",
+  "description": "Aura artwork for the Silo image picker",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Artic0din",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Artic0din/silo-aura-plugin"
+  ]
+}
