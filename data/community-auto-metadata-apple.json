@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-apple",
+  "repo_url": "https://github.com/Artic0din/silo-plugin-metadata-apple",
+  "category": "Metadata Providers",
+  "description": "Community Silo metadata provider plugin backed by Apple TV.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Artic0din",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Artic0din/silo-plugin-metadata-apple"
+  ]
+}

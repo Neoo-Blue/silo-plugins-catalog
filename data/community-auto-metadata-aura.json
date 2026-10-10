@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-aura",
+  "repo_url": "https://github.com/Artic0din/silo-plugin-metadata-aura",
+  "category": "Metadata Providers",
+  "description": "Community Silo metadata provider plugin backed by AURA.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Artic0din",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Artic0din/silo-plugin-metadata-aura"
+  ]
+}
