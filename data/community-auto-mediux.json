@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-mediux",
+  "repo_url": "https://github.com/Pukabyte/silo-plugin-mediux",
+  "category": "Utility & UI Integrations",
+  "description": "Native Mediux artwork provider for Silo with ordered creator priorities and independent season and title-card consistency",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Pukabyte",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Pukabyte/silo-plugin-mediux"
+  ]
+}

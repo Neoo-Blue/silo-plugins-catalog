@@ -1,0 +1,13 @@
+{
+  "name": "bloem-community-artifaxx-yamtrack",
+  "repo_url": "https://github.com/Bloem-Studios/bloem-community-artifaxx-yamtrack",
+  "category": "Utility & UI Integrations",
+  "description": "Silo watch provider plugin: scrobble playback to a self-hosted Yamtrack instance via its Jellyfin webhook.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Bloem-Studios",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Bloem-Studios/bloem-community-artifaxx-yamtrack"
+  ]
+}
