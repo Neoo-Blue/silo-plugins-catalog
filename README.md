@@ -156,6 +156,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-yamtrack](https://github.com/artifaxx/silo-plugin-yamtrack) | artifaxx | Silo watch provider plugin: scrobble playback to a self-hosted Yamtrack instance via its Jellyfin webhook. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins](https://github.com/theramindex/silo-plugins) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins-catalog](https://github.com/Neoo-Blue/silo-plugins-catalog) | Neoo-Blue | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugins-freebsd](https://github.com/mvanbaak/silo-plugins-freebsd) | mvanbaak | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-shoko-plugin](https://github.com/crowquillx/silo-shoko-plugin) | crowquillx | Shoko-backed virtual filesystem and metadata plugin for Silo Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-sonar-plugin](https://github.com/christian-willman/silo-sonar-plugin) | christian-willman | Silo identifies and helps remediate knowledge siloing in codebases shared across small- and medium-sized teams. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-whmcs-module](https://github.com/RXWatcher/silo-whmcs-module) | RXWatcher | WHMCS billing provisioner module to automate creating and managing Silo Server user accounts and server instances. | 🟢 **Active** | `WHMCS Integration` | ✅ Yes |

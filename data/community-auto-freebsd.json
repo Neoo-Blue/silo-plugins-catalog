@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugins-freebsd",
+  "repo_url": "https://github.com/mvanbaak/silo-plugins-freebsd",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "mvanbaak",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/mvanbaak/silo-plugins-freebsd"
+  ]
+}
