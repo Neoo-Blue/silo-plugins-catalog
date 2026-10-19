@@ -165,6 +165,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [spiritual-calculators](https://github.com/fahimafrit/spiritual-calculators) | fahimafrit | WordPress-based platform for Destiny Matrix, Numerology, and Astrology calculators — custom PHP plugin architecture, SEO content silos, and AI-powered interpretation engine. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [twittersilo](https://github.com/habari-extras/twittersilo) | habari-extras | PLUGIN: Simple Twitter Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [vio-plugins](https://github.com/gurgles-1/vio-plugins) | gurgles-1 | Evan's personal Vio/Silo plugin collection — one catalog for all his plugins | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [wetrakr-silo](https://github.com/wetrakr/wetrakr-silo) | wetrakr | WeTrakr plugin for the Silo media server: two-way sync and scrobbling | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [wp-silo](https://github.com/sharmashivanand/wp-silo) | sharmashivanand | This plugin helps you to establish a well-structured SILO architecture on your WordPress website | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 
 ---

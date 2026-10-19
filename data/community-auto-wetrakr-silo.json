@@ -1,0 +1,13 @@
+{
+  "name": "wetrakr-silo",
+  "repo_url": "https://github.com/wetrakr/wetrakr-silo",
+  "category": "Utility & UI Integrations",
+  "description": "WeTrakr plugin for the Silo media server: two-way sync and scrobbling",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "wetrakr",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/wetrakr/wetrakr-silo"
+  ]
+}
