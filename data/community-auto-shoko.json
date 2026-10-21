@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-shoko",
+  "repo_url": "https://github.com/Baine/silo-plugin-shoko",
+  "category": "Utility & UI Integrations",
+  "description": "Silo plugin that syncs watched state, progress and playback with a Shoko Server library",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Baine",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Baine/silo-plugin-shoko"
+  ]
+}

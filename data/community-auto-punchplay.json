@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-punchplay",
+  "repo_url": "https://github.com/PunchPlay/silo-plugin-punchplay",
+  "category": "Utility & UI Integrations",
+  "description": "PunchPlay sync plugin for Silo: two-way watch history, ratings, Watchlist, favourites and dropped shows, plus live scrobbling.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "PunchPlay",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/PunchPlay/silo-plugin-punchplay"
+  ]
+}
