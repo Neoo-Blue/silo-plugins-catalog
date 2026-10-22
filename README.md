@@ -58,6 +58,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | [silo-plugin-autoscan-arr](https://github.com/Silo-Server/silo-plugin-autoscan-arr) | Silo-Server | Silo plugin for arr-autoscan | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-dispatcharr](https://github.com/theramindex/silo-plugin-dispatcharr) | theramindex | Silo request plugin that dispatches user movie/TV requests to downstream Radarr and Sonarr media stacks. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-sonarr-prefetch](https://github.com/CManson38/silo-plugin-sonarr-prefetch) | CManson38 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-sportarr](https://github.com/brettpetch/silo-plugin-sportarr) | brettpetch | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-sync-watcharr](https://github.com/mildman1848/silo-plugin-sync-watcharr) | mildman1848 | Silo watch sync provider for two-way watched movie and episode sync with Watcharr | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins-request-riven](https://github.com/olivertgwalton/silo-plugins-request-riven) | olivertgwalton | Silo request router plugin that integrates content requests with Riven, a Debrid-based media download orchestrator. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |

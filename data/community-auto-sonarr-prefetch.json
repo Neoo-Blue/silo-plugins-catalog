@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-sonarr-prefetch",
+  "repo_url": "https://github.com/CManson38/silo-plugin-sonarr-prefetch",
+  "category": "Media Requests & Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "CManson38",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/CManson38/silo-plugin-sonarr-prefetch"
+  ]
+}
