@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-playback-reporting",
+  "repo_url": "https://github.com/Brady3035/silo-plugin-playback-reporting",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Brady3035",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Brady3035/silo-plugin-playback-reporting"
+  ]
+}
