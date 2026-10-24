@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-watchprovider-scrob-local",
+  "repo_url": "https://github.com/Joloxx9/silo-plugin-watchprovider-scrob-local",
+  "category": "Utility & UI Integrations",
+  "description": "Local build of the Scrob watch provider, tracking stock upstream Silo (plugin SDK v0.24.0)",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Joloxx9",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Joloxx9/silo-plugin-watchprovider-scrob-local"
+  ]
+}
