@@ -1,0 +1,13 @@
+{
+  "name": "silo-kometa-sync",
+  "repo_url": "https://github.com/BEisem/silo-kometa-sync",
+  "category": "Utility & UI Integrations",
+  "description": "Silo plugin that mirrors Kometa posters and Plex collections into Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "BEisem",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/BEisem/silo-kometa-sync"
+  ]
+}

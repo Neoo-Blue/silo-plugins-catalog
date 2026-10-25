@@ -1,0 +1,13 @@
+{
+  "name": "apos-silo-plugins",
+  "repo_url": "https://github.com/apoapostolov/apos-silo-plugins",
+  "category": "Utility & UI Integrations",
+  "description": "Apo's Silo plugins monorepo: Trakt watch provider and ComicInfo metadata provider",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "apoapostolov",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/apoapostolov/apos-silo-plugins"
+  ]
+}

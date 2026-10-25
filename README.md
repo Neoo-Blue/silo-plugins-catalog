@@ -118,6 +118,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [SR_BiggerSilo](https://github.com/wledfor2/SR_BiggerSilo) | wledfor2 | Slime Rancher Mod for Unity Plugin Manager that increases silo storage size. Adjusts the maximum number of items any in game entity that uses Silo storage components. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [Semantic-Silo-Pro-Plugin-Development](https://github.com/bluesky0427/Semantic-Silo-Pro-Plugin-Development) | bluesky0427 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [Silo-plugin](https://github.com/BhanuRathore21/Silo-plugin) | BhanuRathore21 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [apos-silo-plugins](https://github.com/apoapostolov/apos-silo-plugins) | apoapostolov | Apo's Silo plugins monorepo: Trakt watch provider and ComicInfo metadata provider | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [bea-silo](https://github.com/BeAPI/bea-silo) | BeAPI | Dev oriented plugin to add silo feature (IN DEVELOPMENT) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [bloem-community-artifaxx-yamtrack](https://github.com/Bloem-Studios/bloem-community-artifaxx-yamtrack) | Bloem-Studios | Silo watch provider plugin: scrobble playback to a self-hosted Yamtrack instance via its Jellyfin webhook. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [bloem-community-ironicbadger-tailscale](https://github.com/Bloem-Studios/bloem-community-ironicbadger-tailscale) | Bloem-Studios | Tailscale plugin for Silo Media Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -136,6 +137,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-aura-plugin](https://github.com/Artic0din/silo-aura-plugin) | Artic0din | Aura artwork for the Silo image picker | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-auto-translate](https://github.com/randrini/silo-auto-translate) | randrini | Silo plugin: auto extract+translate subtitles (FR) from rating webhooks via SubExtractor | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-comic-pages](https://github.com/crowquillx/silo-comic-pages) | crowquillx | Silo plugin that extracts and caches CBR/CBZ comic pages for Aidoku | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-kometa-sync](https://github.com/BEisem/silo-kometa-sync) | BEisem | Silo plugin that mirrors Kometa posters and Plex collections into Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-adult](https://github.com/RXWatcher/silo-plugin-adult) | RXWatcher | Continuum metadata plugin for adult content (ThePornDB, Stash) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-aiostreams](https://github.com/drondeseries/silo-plugin-aiostreams) | drondeseries | AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) | theramindex | Generates native deep links and launcher shortcuts for external clients from the Silo dashboard. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
