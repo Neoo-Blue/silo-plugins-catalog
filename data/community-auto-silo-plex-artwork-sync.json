@@ -1,0 +1,13 @@
+{
+  "name": "silo-plex-artwork-sync",
+  "repo_url": "https://github.com/BEisem/silo-plex-artwork-sync",
+  "category": "Utility & UI Integrations",
+  "description": "Silo plugin that keeps Silo’s posters and collections matching Plex (works great with Kometa)",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "BEisem",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/BEisem/silo-plex-artwork-sync"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-hdhomerun",
+  "repo_url": "https://github.com/theramindex/silo-plugin-hdhomerun",
+  "category": "Utility & UI Integrations",
+  "description": "Multi-endpoint HDHomeRun Live TV plugin for the Ramindex Silo fork.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "theramindex",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/theramindex/silo-plugin-hdhomerun"
+  ]
+}

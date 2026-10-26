@@ -138,9 +138,11 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-auto-translate](https://github.com/randrini/silo-auto-translate) | randrini | Silo plugin: auto extract+translate subtitles (FR) from rating webhooks via SubExtractor | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-comic-pages](https://github.com/crowquillx/silo-comic-pages) | crowquillx | Silo plugin that extracts and caches CBR/CBZ comic pages for Aidoku | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-kometa-sync](https://github.com/BEisem/silo-kometa-sync) | BEisem | Silo plugin that mirrors Kometa posters and Plex collections into Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plex-artwork-sync](https://github.com/BEisem/silo-plex-artwork-sync) | BEisem | Silo plugin that keeps Silo’s posters and collections matching Plex (works great with Kometa) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-adult](https://github.com/RXWatcher/silo-plugin-adult) | RXWatcher | Continuum metadata plugin for adult content (ThePornDB, Stash) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-aiostreams](https://github.com/drondeseries/silo-plugin-aiostreams) | drondeseries | AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) | theramindex | Generates native deep links and launcher shortcuts for external clients from the Silo dashboard. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-hdhomerun](https://github.com/theramindex/silo-plugin-hdhomerun) | theramindex | Multi-endpoint HDHomeRun Live TV plugin for the Ramindex Silo fork. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-legendasdivx](https://github.com/SomeoneLis/silo-plugin-legendasdivx) | SomeoneLis | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-letterboxd](https://github.com/bulderi/silo-plugin-letterboxd) | bulderi | Silo watch sync plugin: sync a Letterboxd watchlist with Silo (movies only) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-local-artwork](https://github.com/theramindex/silo-plugin-local-artwork) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
