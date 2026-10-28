@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-fanarttv",
+  "repo_url": "https://github.com/blurbery/silo-plugin-metadata-fanarttv",
+  "category": "Metadata Providers",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "blurbery",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/blurbery/silo-plugin-metadata-fanarttv"
+  ]
+}
