@@ -1,0 +1,13 @@
+{
+  "name": "silo-tracearr",
+  "repo_url": "https://github.com/outragedpeanut/silo-tracearr",
+  "category": "Media Requests & Integrations",
+  "description": "Plugin for Silo that allows Tracearr to connect via the Jellyfin option",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "outragedpeanut",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/outragedpeanut/silo-tracearr"
+  ]
+}

@@ -65,6 +65,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugins-request-riven](https://github.com/olivertgwalton/silo-plugins-request-riven) | olivertgwalton | Silo request router plugin that integrates content requests with Riven, a Debrid-based media download orchestrator. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugins-requests-arr](https://github.com/Silo-Community/silo-plugins-requests-arr) | Silo-Community | Approved Silo community request plugin that routes movie and series request calls from the Silo UI directly to Sonarr and Radarr queues. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugins-requests-seerr](https://github.com/Silo-Community/silo-plugins-requests-seerr) | Silo-Community | Approved Silo community request plugin that routes content requests through a Seerr or Jellyseerr API manager. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-tracearr](https://github.com/outragedpeanut/silo-tracearr) | outragedpeanut | Plugin for Silo that allows Tracearr to connect via the Jellyfin option | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 
 ---
 
