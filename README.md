@@ -36,6 +36,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-metadata-javbeacon](https://github.com/Net005/silo-plugin-metadata-javbeacon) | Net005 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-manga](https://github.com/Silo-Server/silo-plugin-metadata-manga) | Silo-Server | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-mdblist](https://github.com/Silo-Server/silo-plugin-metadata-mdblist) | Silo-Server | MDBList metadata enrichment provider for Silo: aggregated ratings, Common Sense age rating, and release certification. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-metadata-omdb](https://github.com/neilmc78/silo-plugin-metadata-omdb) | neilmc78 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-shoko](https://github.com/RickDB/silo-plugin-metadata-shoko) | RickDB | Silo Shoko Metadata Plugin | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-sportarr](https://github.com/Silo-Server/silo-plugin-metadata-sportarr) | Silo-Server (originally brettpetch) | Official fork of the community-developed sports metadata provider. Fetches sports league data via the Sportarr API, mapping leagues to TV series, seasons to seasons, and events to episodes. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-metadata-stash](https://github.com/Net005/silo-plugin-metadata-stash) | Net005 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -59,6 +60,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | [silo-plugin-autoscan-arr](https://github.com/Silo-Server/silo-plugin-autoscan-arr) | Silo-Server | Silo plugin for arr-autoscan | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-dispatcharr](https://github.com/theramindex/silo-plugin-dispatcharr) | theramindex | Silo request plugin that dispatches user movie/TV requests to downstream Radarr and Sonarr media stacks. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-request-scryer](https://github.com/neilmc78/silo-plugin-request-scryer) | neilmc78 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-sonarr-prefetch](https://github.com/CManson38/silo-plugin-sonarr-prefetch) | CManson38 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-sportarr](https://github.com/brettpetch/silo-plugin-sportarr) | brettpetch | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-sync-watcharr](https://github.com/mildman1848/silo-plugin-sync-watcharr) | mildman1848 | Silo watch sync provider for two-way watched movie and episode sync with Watcharr | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -84,6 +86,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | [silo-plugin-auth-ldap](https://github.com/Pfuenzle/silo-plugin-auth-ldap) | Pfuenzle | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-auth-oidc](https://github.com/Pfuenzle/silo-plugin-auth-oidc) | Pfuenzle | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-auth-plex](https://github.com/neilmc78/silo-plugin-auth-plex) | neilmc78 | OIDC auth plugin for Silo-server to allow Plex account sign in | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-guest-pass](https://github.com/RXWatcher/silo-plugin-guest-pass) | RXWatcher | Generates secure guest-access tokens for sharing temporary media playback sessions without creating full accounts. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 | [silo-plugin-oidc-login](https://github.com/RXWatcher/silo-plugin-oidc-login) | RXWatcher | Authentication plugin enabling Single Sign-On (SSO) via OpenID Connect (OIDC) identity providers (e.g., Authelia, Keycloak, Authentik). | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 | [silo-plugin-whmcs-login](https://github.com/RXWatcher/silo-plugin-whmcs-login) | RXWatcher | WHMCS login integration to authenticate server clients directly against billing records and subscriptions in WHMCS. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
@@ -157,6 +160,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-shoko](https://github.com/Baine/silo-plugin-shoko) | Baine | Silo plugin that syncs watched state, progress and playback with a Shoko Server library | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-support](https://github.com/RXWatcher/silo-plugin-support) | RXWatcher | Ticketing and utility integration shell providing speedtests, knowledgebase access, and support tickets in-app. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 | [silo-plugin-tailscale](https://github.com/ironicbadger/silo-plugin-tailscale) | ironicbadger | Tailscale plugin for Silo Media Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-tiny-subtitles](https://github.com/Pasithea0/silo-plugin-tiny-subtitles) | Pasithea0 | Silo plugin that generates subtitles on your own hardware: on-device speech recognition, then Desert Ant Align for word-accurate timings. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-floppy](https://github.com/Silo-Server/silo-plugin-watchprovider-floppy) | Silo-Server | Floppy watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-mdblist](https://github.com/Silo-Server/silo-plugin-watchprovider-mdblist) | Silo-Server | MDBList watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-scrob](https://github.com/foux/silo-plugin-watchprovider-scrob) | foux | Silo watch-provider plugin that syncs watch history, progress, ratings and live playback with a self-hosted Scrob instance. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -168,6 +172,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugins](https://github.com/theramindex/silo-plugins) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins-catalog](https://github.com/Neoo-Blue/silo-plugins-catalog) | Neoo-Blue | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins-freebsd](https://github.com/mvanbaak/silo-plugins-freebsd) | mvanbaak | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-seasonal-lists](https://github.com/outragedpeanut/silo-seasonal-lists) | outragedpeanut | Seasonal episode lists for use with the Silo Seasonal Episodes plugin | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-shoko-plugin](https://github.com/crowquillx/silo-shoko-plugin) | crowquillx | Shoko-backed virtual filesystem and metadata plugin for Silo Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-sonar-plugin](https://github.com/christian-willman/silo-sonar-plugin) | christian-willman | Silo identifies and helps remediate knowledge siloing in codebases shared across small- and medium-sized teams. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-whmcs-module](https://github.com/RXWatcher/silo-whmcs-module) | RXWatcher | WHMCS billing provisioner module to automate creating and managing Silo Server user accounts and server instances. | 🟢 **Active** | `WHMCS Integration` | ✅ Yes |

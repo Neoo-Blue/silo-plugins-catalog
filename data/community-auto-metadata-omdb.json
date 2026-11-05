@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-omdb",
+  "repo_url": "https://github.com/neilmc78/silo-plugin-metadata-omdb",
+  "category": "Metadata Providers",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "neilmc78",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/neilmc78/silo-plugin-metadata-omdb"
+  ]
+}

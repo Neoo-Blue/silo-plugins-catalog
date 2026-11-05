@@ -1,0 +1,13 @@
+{
+  "name": "silo-seasonal-lists",
+  "repo_url": "https://github.com/outragedpeanut/silo-seasonal-lists",
+  "category": "Utility & UI Integrations",
+  "description": "Seasonal episode lists for use with the Silo Seasonal Episodes plugin",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "outragedpeanut",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/outragedpeanut/silo-seasonal-lists"
+  ]
+}

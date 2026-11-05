@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-request-scryer",
+  "repo_url": "https://github.com/neilmc78/silo-plugin-request-scryer",
+  "category": "Media Requests & Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "neilmc78",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/neilmc78/silo-plugin-request-scryer"
+  ]
+}

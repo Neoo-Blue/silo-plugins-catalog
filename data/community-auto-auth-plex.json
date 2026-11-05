@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-auth-plex",
+  "repo_url": "https://github.com/neilmc78/silo-plugin-auth-plex",
+  "category": "Authentication & Security",
+  "description": "OIDC auth plugin for Silo-server to allow Plex account sign in",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "neilmc78",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/neilmc78/silo-plugin-auth-plex"
+  ]
+}

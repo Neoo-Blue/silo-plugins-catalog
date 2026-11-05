@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-tiny-subtitles",
+  "repo_url": "https://github.com/Pasithea0/silo-plugin-tiny-subtitles",
+  "category": "Utility & UI Integrations",
+  "description": "Silo plugin that generates subtitles on your own hardware: on-device speech recognition, then Desert Ant Align for word-accurate timings.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Pasithea0",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Pasithea0/silo-plugin-tiny-subtitles"
+  ]
+}
