@@ -68,6 +68,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugins-requests-arr](https://github.com/Silo-Community/silo-plugins-requests-arr) | Silo-Community | Approved Silo community request plugin that routes movie and series request calls from the Silo UI directly to Sonarr and Radarr queues. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugins-requests-seerr](https://github.com/Silo-Community/silo-plugins-requests-seerr) | Silo-Community | Approved Silo community request plugin that routes content requests through a Seerr or Jellyseerr API manager. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-tracearr](https://github.com/outragedpeanut/silo-tracearr) | outragedpeanut | Plugin for Silo that allows Tracearr to connect via the Jellyfin option | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-tracearr-bridge](https://github.com/neilsb/silo-tracearr-bridge) | neilsb | Native Silo plugin for Tracearr monitoring, library sync, artwork and stream termination | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 
 ---
 
@@ -76,6 +77,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | Plugin / Name | Developer | Description | Status | Compatibility | Verified |
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | [silo-plugin-livetv](https://github.com/RXWatcher/silo-plugin-livetv) | RXWatcher | IPTV / M3U live TV portal for Continuum/Silo, featuring XMLTV EPG guides, channel lists, search tools, favorites, and auth-gated streaming proxying. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
+| [silo-plugin-livetv](https://github.com/drondeseries/silo-plugin-livetv) | drondeseries | IPTV / M3U live TV portal for Continuum, with XMLTV EPG, channel guide, search, favorites, and auth-gated stream proxy. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-xtream-library](https://github.com/theramindex/silo-plugin-xtream-library) | theramindex | IPTV library integration that maps Xtream Codes API stream structures directly into Silo Server media catalogs. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 
 ---
@@ -89,6 +91,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-auth-plex](https://github.com/neilmc78/silo-plugin-auth-plex) | neilmc78 | OIDC auth plugin for Silo-server to allow Plex account sign in | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-guest-pass](https://github.com/RXWatcher/silo-plugin-guest-pass) | RXWatcher | Generates secure guest-access tokens for sharing temporary media playback sessions without creating full accounts. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 | [silo-plugin-oidc-login](https://github.com/RXWatcher/silo-plugin-oidc-login) | RXWatcher | Authentication plugin enabling Single Sign-On (SSO) via OpenID Connect (OIDC) identity providers (e.g., Authelia, Keycloak, Authentik). | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
+| [silo-plugin-oidc-login](https://github.com/mandave98/silo-plugin-oidc-login) | mandave98 | Continuum plugin: oidc-login | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-whmcs-login](https://github.com/RXWatcher/silo-plugin-whmcs-login) | RXWatcher | WHMCS login integration to authenticate server clients directly against billing records and subscriptions in WHMCS. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
 
 ---

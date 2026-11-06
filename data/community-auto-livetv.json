@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-livetv",
+  "repo_url": "https://github.com/drondeseries/silo-plugin-livetv",
+  "category": "Live TV & IPTV",
+  "description": "IPTV / M3U live TV portal for Continuum, with XMLTV EPG, channel guide, search, favorites, and auth-gated stream proxy.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "drondeseries",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/drondeseries/silo-plugin-livetv"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-oidc-login",
+  "repo_url": "https://github.com/mandave98/silo-plugin-oidc-login",
+  "category": "Authentication & Security",
+  "description": "Continuum plugin: oidc-login",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "mandave98",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/mandave98/silo-plugin-oidc-login"
+  ]
+}

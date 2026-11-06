@@ -1,0 +1,13 @@
+{
+  "name": "silo-tracearr-bridge",
+  "repo_url": "https://github.com/neilsb/silo-tracearr-bridge",
+  "category": "Media Requests & Integrations",
+  "description": "Native Silo plugin for Tracearr monitoring, library sync, artwork and stream termination",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "neilsb",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/neilsb/silo-tracearr-bridge"
+  ]
+}
