@@ -159,6 +159,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-playback-reporting](https://github.com/Brady3035/silo-plugin-playback-reporting) | Brady3035 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-public-catalog](https://github.com/RXWatcher/silo-plugin-public-catalog) | RXWatcher | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-punchplay](https://github.com/PunchPlay/silo-plugin-punchplay) | PunchPlay | PunchPlay sync plugin for Silo: two-way watch history, ratings, Watchlist, favourites and dropped shows, plus live scrobbling. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-romm](https://github.com/theramindex/silo-plugin-romm) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-sdk](https://github.com/Silo-Server/silo-plugin-sdk) | Silo-Server | Public Go SDK and protobuf contracts for building Silo plugins. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-shoko](https://github.com/Baine/silo-plugin-shoko) | Baine | Silo plugin that syncs watched state, progress and playback with a Shoko Server library | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-support](https://github.com/RXWatcher/silo-plugin-support) | RXWatcher | Ticketing and utility integration shell providing speedtests, knowledgebase access, and support tickets in-app. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
