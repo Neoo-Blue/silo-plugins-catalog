@@ -1,0 +1,13 @@
+{
+  "name": "spark-plugins",
+  "repo_url": "https://github.com/Joloxx9/spark-plugins",
+  "category": "Utility & UI Integrations",
+  "description": "Spark plugin catalog: Silo's maintained plugins plus Spark's own",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Joloxx9",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Joloxx9/spark-plugins"
+  ]
+}

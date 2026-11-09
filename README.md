@@ -150,6 +150,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-adult](https://github.com/RXWatcher/silo-plugin-adult) | RXWatcher | Continuum metadata plugin for adult content (ThePornDB, Stash) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-aiostreams](https://github.com/drondeseries/silo-plugin-aiostreams) | drondeseries | AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) | theramindex | Generates native deep links and launcher shortcuts for external clients from the Silo dashboard. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-fanart](https://github.com/Joloxx9/silo-plugin-fanart) | Joloxx9 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-hdhomerun](https://github.com/theramindex/silo-plugin-hdhomerun) | theramindex | Multi-endpoint HDHomeRun Live TV plugin for the Ramindex Silo fork. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-legendasdivx](https://github.com/SomeoneLis/silo-plugin-legendasdivx) | SomeoneLis | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-letterboxd](https://github.com/bulderi/silo-plugin-letterboxd) | bulderi | Silo watch sync plugin: sync a Letterboxd watchlist with Silo (movies only) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -176,12 +177,14 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugins](https://github.com/theramindex/silo-plugins) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins-catalog](https://github.com/Neoo-Blue/silo-plugins-catalog) | Neoo-Blue | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugins-freebsd](https://github.com/mvanbaak/silo-plugins-freebsd) | mvanbaak | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-prerolls](https://github.com/apoapostolov/silo-prerolls) | apoapostolov | Silo plugin: cinema-mode pre-roll videos before movies and TV episodes | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-seasonal-lists](https://github.com/outragedpeanut/silo-seasonal-lists) | outragedpeanut | Seasonal episode lists for use with the Silo Seasonal Episodes plugin | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-shoko-plugin](https://github.com/crowquillx/silo-shoko-plugin) | crowquillx | Shoko-backed virtual filesystem and metadata plugin for Silo Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-sonar-plugin](https://github.com/christian-willman/silo-sonar-plugin) | christian-willman | Silo identifies and helps remediate knowledge siloing in codebases shared across small- and medium-sized teams. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-whmcs-module](https://github.com/RXWatcher/silo-whmcs-module) | RXWatcher | WHMCS billing provisioner module to automate creating and managing Silo Server user accounts and server instances. | 🟢 **Active** | `WHMCS Integration` | ✅ Yes |
 | [silotek-plugin-marketplace](https://github.com/JOCOIN94/silotek-plugin-marketplace) | JOCOIN94 | Internal Claude Code plugin marketplace for Silotek workflows. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [smugmug-silo](https://github.com/lildude/smugmug-silo) | lildude | The SmugMug Media Silo plugin implements a Habari silo to access your SmugMug photos making it easy to include images in posts and pages and also upload images directly to SmugMug. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [spark-plugins](https://github.com/Joloxx9/spark-plugins) | Joloxx9 | Spark plugin catalog: Silo's maintained plugins plus Spark's own | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [spiritual-calculators](https://github.com/fahimafrit/spiritual-calculators) | fahimafrit | WordPress-based platform for Destiny Matrix, Numerology, and Astrology calculators — custom PHP plugin architecture, SEO content silos, and AI-powered interpretation engine. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [twittersilo](https://github.com/habari-extras/twittersilo) | habari-extras | PLUGIN: Simple Twitter Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [vio-plugins](https://github.com/gurgles-1/vio-plugins) | gurgles-1 | Evan's personal Vio/Silo plugin collection — one catalog for all his plugins | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |

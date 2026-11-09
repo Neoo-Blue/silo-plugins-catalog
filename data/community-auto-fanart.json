@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-fanart",
+  "repo_url": "https://github.com/Joloxx9/silo-plugin-fanart",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Joloxx9",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Joloxx9/silo-plugin-fanart"
+  ]
+}

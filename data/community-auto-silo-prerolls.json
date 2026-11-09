@@ -1,0 +1,13 @@
+{
+  "name": "silo-prerolls",
+  "repo_url": "https://github.com/apoapostolov/silo-prerolls",
+  "category": "Utility & UI Integrations",
+  "description": "Silo plugin: cinema-mode pre-roll videos before movies and TV episodes",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "apoapostolov",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/apoapostolov/silo-prerolls"
+  ]
+}
