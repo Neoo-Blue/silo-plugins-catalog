@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-gracenote",
+  "repo_url": "https://github.com/theramindex/silo-plugin-metadata-gracenote",
+  "category": "Metadata Providers",
+  "description": "Planned Gracenote metadata provider for Silo; parked pending expanded API access.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "theramindex",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/theramindex/silo-plugin-metadata-gracenote"
+  ]
+}

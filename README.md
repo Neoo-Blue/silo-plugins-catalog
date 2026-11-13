@@ -32,6 +32,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-metadata-aura](https://github.com/Artic0din/silo-plugin-metadata-aura) | Artic0din | Community Silo metadata provider plugin backed by AURA. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-ebook](https://github.com/Silo-Server/silo-plugin-metadata-ebook) | Silo-Server | First-party plugin intended for ebook metadata scraper integration within the Silo ecosystem. | 🟡 **In Development** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-metadata-fanarttv](https://github.com/blurbery/silo-plugin-metadata-fanarttv) | blurbery | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-metadata-gracenote](https://github.com/theramindex/silo-plugin-metadata-gracenote) | theramindex | Planned Gracenote metadata provider for Silo; parked pending expanded API access. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-hardcover](https://github.com/totza2010/silo-plugin-metadata-hardcover) | totza2010 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-javbeacon](https://github.com/Net005/silo-plugin-metadata-javbeacon) | Net005 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-manga](https://github.com/Silo-Server/silo-plugin-metadata-manga) | Silo-Server | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
