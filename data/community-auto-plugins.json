@@ -1,0 +1,13 @@
+{
+  "name": "plugins",
+  "repo_url": "https://github.com/silo-systems/plugins",
+  "category": "Utility & UI Integrations",
+  "description": "Plugins that connect Claude Code and Codex to Silo Systems apps for Mac, starting with document search in Silo Vault.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "silo-systems",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/silo-systems/plugins"
+  ]
+}

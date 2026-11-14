@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-duplicate-review",
+  "repo_url": "https://github.com/deejayexe/silo-plugin-duplicate-review",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "deejayexe",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/deejayexe/silo-plugin-duplicate-review"
+  ]
+}

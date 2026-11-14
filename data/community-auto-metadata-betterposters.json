@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-betterposters",
+  "repo_url": "https://github.com/Luc1100/silo-plugin-metadata-betterposters",
+  "category": "Metadata Providers",
+  "description": "BetterPosters (btttr.cc) poster provider plugin for Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Luc1100",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Luc1100/silo-plugin-metadata-betterposters"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "memberra-silo-plugin",
+  "repo_url": "https://github.com/MrSynthetic/memberra-silo-plugin",
+  "category": "Utility & UI Integrations",
+  "description": "Official Memberra integration plugin for Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "MrSynthetic",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/MrSynthetic/memberra-silo-plugin"
+  ]
+}
