@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-arrmada",
+  "repo_url": "https://github.com/zorcerer/silo-plugin-arrmada",
+  "category": "Media Requests & Integrations",
+  "description": "Silo plugin for Arrmada: sends Silo's requests to Arrmada and scans what Arrmada imports, renames or deletes",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "zorcerer",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/zorcerer/silo-plugin-arrmada"
+  ]
+}

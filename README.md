@@ -60,6 +60,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 
 | Plugin / Name | Developer | Description | Status | Compatibility | Verified |
 | :--- | :--- | :--- | :--- | :--- | :---: |
+| [silo-plugin-arrmada](https://github.com/zorcerer/silo-plugin-arrmada) | zorcerer | Silo plugin for Arrmada: sends Silo's requests to Arrmada and scans what Arrmada imports, renames or deletes | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-autoscan-arr](https://github.com/Silo-Server/silo-plugin-autoscan-arr) | Silo-Server | Silo plugin for arr-autoscan | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-dispatcharr](https://github.com/theramindex/silo-plugin-dispatcharr) | theramindex | Silo request plugin that dispatches user movie/TV requests to downstream Radarr and Sonarr media stacks. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-request-scryer](https://github.com/neilmc78/silo-plugin-request-scryer) | neilmc78 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
