@@ -171,6 +171,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-sdk](https://github.com/Silo-Server/silo-plugin-sdk) | Silo-Server | Public Go SDK and protobuf contracts for building Silo plugins. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-shoko](https://github.com/Baine/silo-plugin-shoko) | Baine | Silo plugin that syncs watched state, progress and playback with a Shoko Server library | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-support](https://github.com/RXWatcher/silo-plugin-support) | RXWatcher | Ticketing and utility integration shell providing speedtests, knowledgebase access, and support tickets in-app. | 🟢 **Active** | `Silo / Continuum` | ⚠️ Downstream |
+| [silo-plugin-suricata](https://github.com/deejayexe/silo-plugin-suricata) | deejayexe | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-tailscale](https://github.com/ironicbadger/silo-plugin-tailscale) | ironicbadger | Tailscale plugin for Silo Media Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-tiny-subtitles](https://github.com/Pasithea0/silo-plugin-tiny-subtitles) | Pasithea0 | Silo plugin that generates subtitles on your own hardware: on-device speech recognition, then Desert Ant Align for word-accurate timings. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-floppy](https://github.com/Silo-Server/silo-plugin-watchprovider-floppy) | Silo-Server | Floppy watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
