@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-boxset-collections",
+  "repo_url": "https://github.com/neilmc78/silo-plugin-boxset-collections",
+  "category": "Utility & UI Integrations",
+  "description": "Automatically creates box sets as collections",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "neilmc78",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/neilmc78/silo-plugin-boxset-collections"
+  ]
+}

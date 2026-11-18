@@ -155,6 +155,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-adult](https://github.com/RXWatcher/silo-plugin-adult) | RXWatcher | Continuum metadata plugin for adult content (ThePornDB, Stash) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-aiostreams](https://github.com/drondeseries/silo-plugin-aiostreams) | drondeseries | AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) | theramindex | Generates native deep links and launcher shortcuts for external clients from the Silo dashboard. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-boxset-collections](https://github.com/neilmc78/silo-plugin-boxset-collections) | neilmc78 | Automatically creates box sets as collections | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-duplicata-versions](https://github.com/deejayexe/silo-plugin-duplicata-versions) | deejayexe | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-duplicate-review](https://github.com/deejayexe/silo-plugin-duplicate-review) | deejayexe | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-fanart](https://github.com/Joloxx9/silo-plugin-fanart) | Joloxx9 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
