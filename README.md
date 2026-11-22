@@ -44,6 +44,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-metadata-stash](https://github.com/Net005/silo-plugin-metadata-stash) | Net005 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadata-tmdb](https://github.com/Silo-Server/silo-plugin-metadata-tmdb) | Silo-Server | First-party Silo metadata provider plugin backed by The Movie Database (TMDB). Fetches movie and TV show titles, seasons, episodes, and poster artwork. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
 | [silo-plugin-metadata-tvdb](https://github.com/Silo-Server/silo-plugin-metadata-tvdb) | Silo-Server | First-party Silo metadata provider plugin backed by TheTVDB. Fetches TV series, seasons, episodes, and related artwork details. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
+| [silo-plugin-metadata-youtube](https://github.com/Collisionc/silo-plugin-metadata-youtube) | Collisionc | Silo metadata provider: YouTube channels and playlists as TV series | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 
 ---
 

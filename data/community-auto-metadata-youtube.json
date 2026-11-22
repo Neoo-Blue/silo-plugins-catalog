@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-metadata-youtube",
+  "repo_url": "https://github.com/Collisionc/silo-plugin-metadata-youtube",
+  "category": "Metadata Providers",
+  "description": "Silo metadata provider: YouTube channels and playlists as TV series",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Collisionc",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Collisionc/silo-plugin-metadata-youtube"
+  ]
+}
