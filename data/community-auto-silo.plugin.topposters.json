@@ -1,0 +1,13 @@
+{
+  "name": "Silo.Plugin.TopPosters",
+  "repo_url": "https://github.com/TOP-Posters/Silo.Plugin.TopPosters",
+  "category": "Utility & UI Integrations",
+  "description": "TOP Posters artwork provider for Silo media server (prototype)",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "TOP-Posters",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/TOP-Posters/Silo.Plugin.TopPosters"
+  ]
+}
