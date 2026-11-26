@@ -1,0 +1,13 @@
+{
+  "name": "silon-plugins",
+  "repo_url": "https://github.com/KUWAITNET/silon-plugins",
+  "category": "Utility & UI Integrations",
+  "description": "Silon Install agent plugin for Codex, ChatGPT, and Claude",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "KUWAITNET",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/KUWAITNET/silon-plugins"
+  ]
+}

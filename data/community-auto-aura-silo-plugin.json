@@ -1,0 +1,13 @@
+{
+  "name": "aura-silo-plugin",
+  "repo_url": "https://github.com/xmoosex/aura-silo-plugin",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "xmoosex",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/xmoosex/aura-silo-plugin"
+  ]
+}

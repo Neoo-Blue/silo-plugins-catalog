@@ -132,6 +132,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [Silo-plugin](https://github.com/BhanuRathore21/Silo-plugin) | BhanuRathore21 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [Silo.Plugin.TopPosters](https://github.com/TOP-Posters/Silo.Plugin.TopPosters) | TOP-Posters | TOP Posters artwork provider for Silo media server (prototype) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [apos-silo-plugins](https://github.com/apoapostolov/apos-silo-plugins) | apoapostolov | Apo's Silo plugins monorepo: Trakt watch provider and ComicInfo metadata provider | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [aura-silo-plugin](https://github.com/xmoosex/aura-silo-plugin) | xmoosex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [bea-silo](https://github.com/BeAPI/bea-silo) | BeAPI | Dev oriented plugin to add silo feature (IN DEVELOPMENT) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [bloem-community-artifaxx-yamtrack](https://github.com/Bloem-Studios/bloem-community-artifaxx-yamtrack) | Bloem-Studios | Silo watch provider plugin: scrobble playback to a self-hosted Yamtrack instance via its Jellyfin webhook. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [bloem-community-ironicbadger-tailscale](https://github.com/Bloem-Studios/bloem-community-ironicbadger-tailscale) | Bloem-Studios | Tailscale plugin for Silo Media Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -193,6 +194,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-shoko-plugin](https://github.com/crowquillx/silo-shoko-plugin) | crowquillx | Shoko-backed virtual filesystem and metadata plugin for Silo Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-sonar-plugin](https://github.com/christian-willman/silo-sonar-plugin) | christian-willman | Silo identifies and helps remediate knowledge siloing in codebases shared across small- and medium-sized teams. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-whmcs-module](https://github.com/RXWatcher/silo-whmcs-module) | RXWatcher | WHMCS billing provisioner module to automate creating and managing Silo Server user accounts and server instances. | 🟢 **Active** | `WHMCS Integration` | ✅ Yes |
+| [silon-plugins](https://github.com/KUWAITNET/silon-plugins) | KUWAITNET | Silon Install agent plugin for Codex, ChatGPT, and Claude | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silotek-plugin-marketplace](https://github.com/JOCOIN94/silotek-plugin-marketplace) | JOCOIN94 | Internal Claude Code plugin marketplace for Silotek workflows. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [smugmug-silo](https://github.com/lildude/smugmug-silo) | lildude | The SmugMug Media Silo plugin implements a Habari silo to access your SmugMug photos making it easy to include images in posts and pages and also upload images directly to SmugMug. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [spark-plugins](https://github.com/Joloxx9/spark-plugins) | Joloxx9 | Spark plugin catalog: Silo's maintained plugins plus Spark's own | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
