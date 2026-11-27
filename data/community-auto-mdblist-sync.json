@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-mdblist-sync",
+  "repo_url": "https://github.com/spaceabovethetrees/silo-plugin-mdblist-sync",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "spaceabovethetrees",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/spaceabovethetrees/silo-plugin-mdblist-sync"
+  ]
+}

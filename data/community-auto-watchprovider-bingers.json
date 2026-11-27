@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-watchprovider-bingers",
+  "repo_url": "https://github.com/TOomaAh/silo-plugin-watchprovider-bingers",
+  "category": "Utility & UI Integrations",
+  "description": "No description provided.",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "TOomaAh",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/TOomaAh/silo-plugin-watchprovider-bingers"
+  ]
+}

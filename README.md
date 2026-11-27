@@ -155,6 +155,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-comic-pages](https://github.com/crowquillx/silo-comic-pages) | crowquillx | Silo plugin that extracts and caches CBR/CBZ comic pages for Aidoku | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-kometa-sync](https://github.com/BEisem/silo-kometa-sync) | BEisem | Silo plugin that mirrors Kometa posters and Plex collections into Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plex-artwork-sync](https://github.com/BEisem/silo-plex-artwork-sync) | BEisem | Silo plugin that keeps Silo’s posters and collections matching Plex (works great with Kometa) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plex-sign-in](https://github.com/buzzromain/silo-plex-sign-in) | buzzromain | Community Plex Sign-In plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-adult](https://github.com/RXWatcher/silo-plugin-adult) | RXWatcher | Continuum metadata plugin for adult content (ThePornDB, Stash) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-aiostreams](https://github.com/drondeseries/silo-plugin-aiostreams) | drondeseries | AIOStreams provider for Silo with stable .strm playback-time resolution, caching, and stream failover | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) | theramindex | Generates native deep links and launcher shortcuts for external clients from the Silo dashboard. | 🟢 **Active** | `Silo SDK (gRPC)` | ✅ Yes |
@@ -165,7 +166,9 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-hdhomerun](https://github.com/theramindex/silo-plugin-hdhomerun) | theramindex | Multi-endpoint HDHomeRun Live TV plugin for the Ramindex Silo fork. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-legendasdivx](https://github.com/SomeoneLis/silo-plugin-legendasdivx) | SomeoneLis | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-letterboxd](https://github.com/bulderi/silo-plugin-letterboxd) | bulderi | Silo watch sync plugin: sync a Letterboxd watchlist with Silo (movies only) | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-link-previews](https://github.com/Pasithea0/silo-plugin-link-previews) | Pasithea0 | Rich link previews for Silo items shared outside Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-local-artwork](https://github.com/theramindex/silo-plugin-local-artwork) | theramindex | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-mdblist-sync](https://github.com/spaceabovethetrees/silo-plugin-mdblist-sync) | spaceabovethetrees | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-mediux](https://github.com/Pukabyte/silo-plugin-mediux) | Pukabyte | Native Mediux artwork provider for Silo with ordered creator priorities and independent season and title-card consistency | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-metadb](https://github.com/RXWatcher/silo-plugin-metadb) | RXWatcher | First-party Silo metadata provider plugin backed by MetaDB. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-playback-reporting](https://github.com/Brady3035/silo-plugin-playback-reporting) | Brady3035 | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
@@ -178,6 +181,7 @@ Silo Server is an open-source, high-performance, self-hosted media streaming ser
 | [silo-plugin-suricata](https://github.com/deejayexe/silo-plugin-suricata) | deejayexe | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-tailscale](https://github.com/ironicbadger/silo-plugin-tailscale) | ironicbadger | Tailscale plugin for Silo Media Server | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-tiny-subtitles](https://github.com/Pasithea0/silo-plugin-tiny-subtitles) | Pasithea0 | Silo plugin that generates subtitles on your own hardware: on-device speech recognition, then Desert Ant Align for word-accurate timings. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
+| [silo-plugin-watchprovider-bingers](https://github.com/TOomaAh/silo-plugin-watchprovider-bingers) | TOomaAh | No description provided. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-floppy](https://github.com/Silo-Server/silo-plugin-watchprovider-floppy) | Silo-Server | Floppy watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-mdblist](https://github.com/Silo-Server/silo-plugin-watchprovider-mdblist) | Silo-Server | MDBList watch-provider plugin for Silo | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |
 | [silo-plugin-watchprovider-scrob](https://github.com/foux/silo-plugin-watchprovider-scrob) | foux | Silo watch-provider plugin that syncs watch history, progress, ratings and live playback with a self-hosted Scrob instance. | ⚪ *Unverified* | `Silo SDK (gRPC)` | ❓ No |

@@ -1,0 +1,13 @@
+{
+  "name": "silo-plugin-link-previews",
+  "repo_url": "https://github.com/Pasithea0/silo-plugin-link-previews",
+  "category": "Utility & UI Integrations",
+  "description": "Rich link previews for Silo items shared outside Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "Pasithea0",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/Pasithea0/silo-plugin-link-previews"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "silo-plex-sign-in",
+  "repo_url": "https://github.com/buzzromain/silo-plex-sign-in",
+  "category": "Utility & UI Integrations",
+  "description": "Community Plex Sign-In plugin for Silo",
+  "status": "Unverified",
+  "verified": false,
+  "developer": "buzzromain",
+  "compatibility": "Silo SDK (gRPC)",
+  "citations": [
+    "https://github.com/buzzromain/silo-plex-sign-in"
+  ]
+}
